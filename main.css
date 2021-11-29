@@ -1,0 +1,16 @@
+.placeholder {
+  height: 400px;
+  width: 400px;
+}
+main {
+  height: 100vh;
+}
+.calendar .active {
+  background-color: red;
+}
+.calendar .cell:hover {
+  cursor: pointer;
+}
+.add:hover {
+  cursor: pointer;
+}
