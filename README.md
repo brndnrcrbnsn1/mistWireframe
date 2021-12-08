@@ -16,5 +16,5 @@ This would allow for a user to have class events or due dates automatically adde
 ## How to Use
 
 You can view the UX design at [Figma](https://www.figma.com/file/xXJsOJlZT7ooClLVcFZ8v2/MIST-5740-Wireframe?node-id=0%3A1)  
-You can view the prototype at [brndnrcrbnsn1@github](https://brndnrcrbnsn1.github.io/mistWireframe/)
+You can view the prototype at [brndnrcrbnsn1@github](https://brndnrcrbnsn1.github.io/mistWireframe/)   
 You can view the code for the prototype by clicking [here](https://github.com/brndnrcrbnsn1/mistWireframe)
